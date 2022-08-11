@@ -1,0 +1,18 @@
+name: stellaris_modifier_icons
+description: Generate modifier icons
+version: 1.0.0
+
+environment:
+  sdk: '>=2.16.2 <3.0.0'
+
+dependencies:
+  CommonLib:
+    git: https://github.com/FarragoFiction/CommonLib.git
+  LoaderLib:
+    git: https://github.com/FarragoFiction/LoaderLib.git
+  path: any
+
+dev_dependencies:
+  build_runner: ^2.1.8
+  build_web_compilers: ^3.2.2
+
