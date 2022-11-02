@@ -2815,7 +2815,7 @@ var $async$hB=A.E(function(a6,a7){if(a6===1)return A.A(a7,r)
 while(true)switch(s){case 0:a2={}
 a3=t.s
 a4=t.gU
-a5=A.i([A.h3("Resource",A.i([A.al("Cost Add","mod_X_cost_add",B.E,1,null,null,null,A.i(["cost","resource_add"],a3)),A.al("Cost Mult","mod_X_cost_mult",B.E,1,null,null,null,A.i(["cost","mult"],a3)),A.al("Produces Add","mod_X_produces_add",B.a1,1,"produces_bg",null,"resource_add",null),A.al("Produces Mult","mod_X_produces_mult",B.a2,1,"produces_bg",null,"mult",null),A.al("Upkeep Add","mod_X_upkeep_add",B.F,1,null,B.a_,null,A.i(["upkeep","resource_add"],a3)),A.al("Upkeep Mult","mod_X_upkeep_mult",B.F,1,null,null,null,A.i(["upkeep","mult"],a3)),A.al("Resource Add","mod_resource_X_add",B.D,1,null,null,"resource_add",null),A.al("Resource Mult","mod_resource_X_mult",B.D,1,null,B.Z,"mult2",null),A.al("Mines Max","mod_building_X_mines_max",B.a3,0.63,"mines_max",null,null,null)],a4)),A.h3("District",A.i([A.al("Build Cap","mod_X_max",B.a0,1,null,null,"max",null)],a4)),A.h3("Job",A.i([A.al("Add","mod_X_add",B.a4,0.82,null,null,"job_add",null)],a4))],t.fB)
+a5=A.i([A.h3("Resource",A.i([A.al("Cost Add","mod_X_cost_add",B.E,1,null,null,null,A.i(["cost","resource_add"],a3)),A.al("Cost Mult","mod_X_cost_mult",B.E,1,null,null,null,A.i(["cost","mult"],a3)),A.al("Produces Add","mod_X_produces_add",B.a1,1,"produces_bg",null,"resource_add",null),A.al("Produces Mult","mod_X_produces_mult",B.a2,1,"produces_bg",null,"mult",null),A.al("Upkeep Add","mod_X_upkeep_add",B.F,1,null,B.a_,null,A.i(["upkeep","resource_add"],a3)),A.al("Upkeep Mult","mod_X_upkeep_mult",B.F,1,null,null,null,A.i(["upkeep","mult"],a3)),A.al("Resource Add","mod_resource_X_add",B.D,1,null,null,"resource_add",null),A.al("Resource Mult","mod_resource_X_mult",B.D,1,null,B.Z,"mult2",null),A.al("Mines Max","mod_building_X_mines_max",B.a3,0.63,"mines_max",null,null,null)],a4)),A.h3("District",A.i([A.al("Build Cap","mod_X_max",B.a0,0.2987012987012987,null,null,"max",null)],a4)),A.h3("Job",A.i([A.al("Add","mod_X_add",B.a4,0.82,null,null,"job_add",null)],a4))],t.fB)
 a4=document
 a3=a4.getElementById("input")
 a3.toString
@@ -6097,8 +6097,8 @@ B.Y=new A.ce("FieldDelimiter")
 B.Z=new A.N(0,-1,t.D)
 B.a_=new A.N(0,-2,t.D)
 B.D=new A.N(10,11,t.D)
-B.a0=new A.N(12,12,t.D)
 B.E=new A.N(12,9,t.D)
+B.a0=new A.N(13,12,t.D)
 B.a1=new A.N(16,10,t.D)
 B.a2=new A.N(16,11,t.D)
 B.a3=new A.N(6,6,t.q)

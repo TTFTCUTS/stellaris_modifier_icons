@@ -18,12 +18,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DART_PUB_BUILD_OUTPUT_KEY": "docs",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DART_PUB_BUILD_OUTPUT_KEY&quot;: &quot;docs&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web">
       <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
