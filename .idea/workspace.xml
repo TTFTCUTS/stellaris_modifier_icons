@@ -10,20 +10,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="27RaE5zTARTPkCcBKRtHC6wln3C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DART_PUB_BUILD_OUTPUT_KEY&quot;: &quot;docs&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DART_PUB_BUILD_OUTPUT_KEY": "docs",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/tools/Dart/3.2.2/dart-sdk",
+    "settings.editor.selected.configurable": "dart.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web">
       <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
@@ -41,18 +52,8 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="759" y="501" key="#Dart" timestamp="1649287328452">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state x="759" y="501" key="#Dart/1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1649287328452" />
-    <state x="640" y="335" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1655965742353">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state x="640" y="335" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1655965742353" />
-    <state x="461" y="244" key="SettingsEditor" timestamp="1655964288422">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state x="461" y="244" key="SettingsEditor/1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1655964288422" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

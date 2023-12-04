@@ -20,6 +20,9 @@ Future<void> main() async {
         new IconGroup("District", <IconType>[
             new IconType("Build Cap", "mod_X_max", const Point<int>(13,12), 23/77, foreground: "max"),
         ]),
+        new IconGroup("Building", <IconType>[
+            new IconType("Build Cap", "mod_X_max", const Point<int>(8,15), 23/77, foreground: "job_add")
+        ]),
         new IconGroup("Job", <IconType>[
             new IconType("Add", "mod_X_add", const Point<num>(12.35,11.1), 0.82, foreground: "job_add"),
         ]),
